@@ -2,8 +2,17 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>CFBundleIdentifier</key>
+	<string></string>
+	<key>iCloud.com.judehathway.Permanence</key>
+	<string></string>
+	<key>NSUbiquitousContainerIsDocumentScopePublic</key>
+	<string></string>
+	<key>NSUbiquitousContainerSupportedFolderLevels</key>
+	<string></string>
 	<key>UIBackgroundModes</key>
 	<array>
+		<string></string>
 		<string>remote-notification</string>
 	</array>
 </dict>
