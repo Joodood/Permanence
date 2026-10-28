@@ -1,0 +1,13 @@
+# Xcode / Swift
+.DS_Store
+xcuserdata/
+*.xcuserstate
+DerivedData/
+.build/
+.swiftpm/xcode/package.xcworkspace/xcuserdata/
+*.xcscmblueprint
+*.ipa
+*.dSYM.zip
+*.dSYM
+Pods/
+.env
